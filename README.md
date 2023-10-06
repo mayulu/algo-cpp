@@ -1,2 +1,2 @@
 # algo-cpp
-The algorithms I have learned, one by one, in C++ code.
+To implement various algorithms in C++, which can improve both algorithm skills and C++ programming skills.
